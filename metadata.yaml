@@ -1,0 +1,35 @@
+_repo: The-Complete-Essays-of-John-Galsworthy_4261
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Galsworthy, John
+    alias: Sinjohn, John
+    birthdate: 1867
+    deathdate: 1933
+    gutenberg_agent_id: '850'
+    url: http://www.gutenberg.org/2009/agents/850
+    wikipedia: http://en.wikipedia.org/wiki/John_Galsworthy
+description: ''
+gutenberg_issued: '2004-09-25'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '4261'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Essays'
+- !lcc 'PR'
+- !lcc 'PN'
+- GITenberg
+tableOfContents: 'The inn of tranquillity -- Magpie over the hill -- Sheep-shearing
+  -- Evolution -- Riding in mist -- The procession -- A Christian -- Wind in the rocks
+  -- My distant relative -- The black godmother -- Quality -- The grand jury: in two
+  panels and a frame -- Gone -- Threshing -- That old-time place -- Romance: three
+  gleams -- Memories -- Felicity -- Studies and essays -- A novelist''s allegory --
+  Some platitudes concerning drama -- Meditation on finality -- Wanted-schooling --
+  Reflections on our dislike of things as they are -- The windlestraw -- About censorship
+  -- Vague thoughts on art.'
+title: The Complete Essays of John Galsworthy
+url: http://www.gutenberg.org/ebooks/4261
